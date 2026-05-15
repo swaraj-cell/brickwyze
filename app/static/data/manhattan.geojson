@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midtown",
+        "score": 85
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-73.99,40.75],
+          [-73.98,40.75],
+          [-73.98,40.76],
+          [-73.99,40.76],
+          [-73.99,40.75]
+        ]]
+      }
+    }
+  ]
+}

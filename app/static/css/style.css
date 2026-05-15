@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f6f8;
+    color: #222;
+}
+
+nav {
+    background: #111827;
+    color: white;
+    padding: 16px 32px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+nav h2 {
+    margin-right: 30px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    padding: 40px;
+}
+
+.hero {
+    background: white;
+    padding: 40px;
+    border-radius: 12px;
+}
+
+.hero h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+#map {
+    height: 600px;
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 12px;
+    border: 2px solid #ddd;
+}
